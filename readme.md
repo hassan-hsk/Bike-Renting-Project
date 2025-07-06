@@ -110,15 +110,6 @@ Models are evaluated based on:
 
 ---
 
-## 📌 To Do
-
-- [ ] Add Docker support
-- [ ] Add unit tests for backend
-- [ ] Improve UI with charts
-- [ ] Integrate with a database
-
----
-
 ## 👨‍💻 Author
 
 **Hassan Sarfraz**  
