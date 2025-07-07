@@ -54,7 +54,7 @@ The project uses the **bike_sharing.csv** dataset, which contains:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/bike-sharing-prediction.git
+   git clone https://github.com/hassan-hsk/bike-sharing-prediction.git
    cd bike-sharing-prediction
    ```
 
